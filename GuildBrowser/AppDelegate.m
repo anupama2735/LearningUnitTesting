@@ -6,7 +6,7 @@
 {
     // Override point for customization after application launch.
     [self customizeAppearance];
-    
+    int x
     return YES;
 }
 							
